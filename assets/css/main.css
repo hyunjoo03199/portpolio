@@ -2794,6 +2794,7 @@ input, select, textarea {
 		padding: 10px;
 		border: 2px solid #ffffff;
 		border-radius: 10px;
+		margin-bottom: 50px;
 	}
 
 		ul.contact > li {
