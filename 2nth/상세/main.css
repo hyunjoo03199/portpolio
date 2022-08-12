@@ -1,0 +1,10 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+.img{
+    width: 860px;
+}
+.img img{
+    display: block;
+}
